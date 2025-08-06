@@ -41,7 +41,3 @@ This project uses an **Agentic AI** approach where:
 - It **plans a sequence of tasks** (e.g., calculate BMI, suggest diet)
 - Then **executes actions** (e.g., call API, retrieve data)
 - Provides **dynamic and adaptive responses**
-
-## 🔧 How to Run Locally
-git clone https://github.com/Nandhini-246-hash/nutrition-agentic-ai.git
-cd nutrition-agentic-ai
